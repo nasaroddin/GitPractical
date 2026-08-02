@@ -1,0 +1,20 @@
+{
+  "name": "gitpractical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasaroddin/GitPractical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasaroddin/GitPractical/issues"
+  },
+  "homepage": "https://github.com/nasaroddin/GitPractical#readme"
+}
